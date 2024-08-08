@@ -1,5 +1,5 @@
 
-# Olá, eu me chamo Maurício Vicente! 👋
+# Salve, eu me chamo Maurício Vicente! 👋
 
 Essas aqui são minhas Redes Sociais: 
 
