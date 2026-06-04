@@ -34,11 +34,11 @@ Utilizo a programação como um Hobbie, adoro me divertir fazendo alguns código
 
 ## PC Specs
 
-![Processador](https://badgen.net/static/PC%20SPECS/R7-9800x3D/red)
+![Processador](https://badgen.net/static/PC%20SPECS/Ryzen 79800x3D/red)
 
 ![PlacaMae](https://badgen.net/static/PC%20SPECS/X870e%20AORUS/orange)
 
-![Placa](https://badgen.net/static/PC%20SPECS/RTX%205070-Ti/green)
+![Placa](https://badgen.net/static/PC%20SPECS/RTX%205070Ti/green)
 
 ![RAM](https://badgen.net/static/PC%20SPECS/32GB%20DDR5/pink)
 
